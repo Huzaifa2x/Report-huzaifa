@@ -9,4 +9,4 @@ Add all your reports here.
 3. [Rakshita](./Rakshita.md)
 4. [Spoorthi](./SPOOMANA.md)
 5. [Vrishank](./Vrishank.md)
-
+6. [Rishi](./Rishi.md)
